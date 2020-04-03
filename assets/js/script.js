@@ -8,7 +8,7 @@
    // document.write(anums[nos[0],[1]]);
    //document.getElementById("res").innerHTML=anums[nums];
 //}
-/*function save(){
+function save(){
     var digits=document.getElementById("nos").value;
     
     var lett = [];
@@ -45,4 +45,3 @@ function getString(digits,temp,res,lett){
         temp.pop();    
     }
 }
-*/
